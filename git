@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+git add .
+git commit -m "Binary trees and Binary Search trees"
+git push
